@@ -75,7 +75,7 @@ public class program
 ```
 ## Output:
 
-![Uploading 244841367-ccce2e1a-23cd-4397-8ff9-d75176b7f0ff.png…]()
+![244841367-ccce2e1a-23cd-4397-8ff9-d75176b7f0ff](https://github.com/swemurali/File/assets/94165336/df423fdf-d545-4b3b-8e57-699025834eb8)
 
 ## Result:
  Thus a C# program to store the student details in file using structure concept is implemented successfully.
